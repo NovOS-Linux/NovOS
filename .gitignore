@@ -1,0 +1,17 @@
+# Files
+*.iso
+
+# Plasma
+Plasma/ezreleng/
+Plasma/work/
+Plasma/out/
+
+# XFCE
+XFCE/ezreleng/
+XFCE/work/
+XFCE/out/
+
+# LTS
+LTS/ezreleng/
+LTS/work/
+LTS/out/
