@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=pamac-tray
+Comment=Pamac tray
+Icon=pamac
+Categories=Utility;X-SuSE-DesktopUtility;
+Exec=/usr/bin/pamac-tray
+InitialPreference=1
+StartupNotify=false
+Terminal=false
+Type=Application
+
