@@ -1,4 +1,4 @@
-<h1>Welcome to blizOS!</h1>
+<h1>Welcome to NovOS!</h1>
 <p>This is the public source code for NovOS!</p>
 <p>&nbsp;</p>
 <p>Based on <a href="https://sourceforge.net/projects/ezarch/" target="_blank">eznix's ezarcher project.</a></p>
