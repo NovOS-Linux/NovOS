@@ -1,8 +1,8 @@
 <h1>Welcome to NovOS!</h1>
 <p>This is the public source code for NovOS!</p>
 <p>&nbsp;</p>
-<h1>NOVOS ISOS AND THEIR SOURCE CODE ARE NO LONGER MAINTAINED BY THE TEAM!</h1>
-<p>NovOS will still be supported until January 2024!</p>
+<h1>NovOS ISOS & their source code are no longer maintained by the team as of September 1st, 2023!</h1>
+<p>NovOS will still be supported until January 2024. However, New ISO's & source code updates are no longer officially supported. The source code & our ISO's will be still available for as long as possible!</p>
 <p>&nbsp;</p>
 <p>Based on <a href="https://sourceforge.net/projects/ezarch/" target="_blank">eznix's ezarcher project.</a></p>
 <p>&nbsp;</p>
